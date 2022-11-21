@@ -1,5 +1,7 @@
 # Challenge 2 for programming fundamentals III
 
+Note: Extra files besides the four specified were included so the program would compile.
+
 **Question 1:** In your homework you had to create a linked list and a hash table using your linked list class. In that solution you used a linked list class within a hash table class. For this task, create a simple hash table that implements separate chaining directly and does NOT use a linked list class. Use the "Hash Table: Separate Chaining" presentation given in class as a guide and implement the case "Separate Chaining Methods: Array of Head Pointers." Use the standard Data and Node structs we have been using in class for Nodes, but you will not need a "previous" pointer. Your linked lists need to only be singly linked and do not need to maintain order (this makes things much simpler).
 
 Specifications:
