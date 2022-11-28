@@ -34,7 +34,7 @@ Your code MUST compile with ONLY the files you submit, nothing more nothing less
 Submission: When you are ready to submit, place your 4 files in a single zip file, attach it to this question and upload it. Your zip file must contain ONLY those 4 files, no other files, no project or IDE files, no Mac OS files, and no directories including no top level directory). Inclusion of any other files/directories will incur an automatic 5% penalty. Mac people, you cannot use the built in zip utility because it will add extra files you cannot see, but Linux can (you are graded on Linux). Use the command line or a 3rd party zip utility to zip. Double check your zip files before submitting!
 
 
-**Question 2:** In your coding assignments you had to create a stack (twice). A stack is a LIFO queue (last in, first out). Now create a FIFO "stack" (first in, first out) conforming to all the definitions of a stack except "pop" will pull data from the "bottom," not the "top." In other words, push will still push to the "top" but pull will pull from the "bottom." Similarly, peek will return the value on the "bottom."
+**Question 2:** In your coding assignments you had to create a queue (twice). A queue is a LIFO queue (last in, first out). Now create a FIFO "queue" (first in, first out) conforming to all the definitions of a queue except "pop" will pull data from the "bottom," not the "top." In other words, push will still push to the "top" but pull will pull from the "bottom." Similarly, peek will return the value on the "bottom."
 
 Specifications:
 
